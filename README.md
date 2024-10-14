@@ -1,4 +1,4 @@
-# Bookstore Data Visualization Tableau
+# Bookstore Data Visualization With Tableau
 
 This project involves analyzing data from a fictitious bookstore set in the future (January 1, 2194), using Tableau for exploratory data analysis. Data from two Excel files, **A6_Bookshop.xlsx** and **A6_BookshopLibraries.xlsx**, are connected in Tableau through a series of joins, unions, and relationships to create a comprehensive data model. The goal is to answer a set of 14 exploratory business questions regarding sales, checkouts, book ratings, author details, and more.
 
